@@ -1,0 +1,6 @@
+{
+  "name": "Manhwa Panel Analyzer",
+  "description": "Standalone web application foundation for manhwa panel analysis, structured story extraction, and 2.5D camera motion data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
